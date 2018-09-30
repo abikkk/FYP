@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835793377981",
+    "firebase_url": "https://fypfirebaseproject-b4374.firebaseio.com",
+    "project_id": "fypfirebaseproject-b4374",
+    "storage_bucket": "fypfirebaseproject-b4374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835793377981:android:83eb261534ffc557",
+        "android_client_info": {
+          "package_name": "com.guitarnotes.a48k.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835793377981-h4g9ihpn8oiuktk8d1tta4615jtkdas9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guitarnotes.a48k.fyp",
+            "certificate_hash": "74ebbdcc8e51fd9e05acc71ce7c68dd48e3660b0"
+          }
+        },
+        {
+          "client_id": "835793377981-5e9eat0vh2pil1aivoafeb2nd6t8e967.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoVcVEeRElU23zKdsjn-Cp3gdCgEBl-QI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835793377981-5e9eat0vh2pil1aivoafeb2nd6t8e967.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
